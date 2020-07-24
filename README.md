@@ -1,7 +1,7 @@
 # Movie-Genre-Prediction
 Computer Vision models to predict movie genre from poster
 
-Posters are of English movies post 1980. They are split between the en_90 and images folder.
+Posters are of English movies post 1980. They are split between the en_90 and images folder. The movies_metadata_modded.csv file is a cleaned version of the TMDB database(Rows having NULL values have been removed). 
 
 3 different models have been tested for this multi-label classification tasks.
 **Model 1** is a simple 6 layer Convolutional Neural Network.
