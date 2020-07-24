@@ -14,10 +14,10 @@ For measuring the accuracy of these, 2 methods have been proposed. One method ch
 
 Some sample posters along with their predicted outputs have been shown below.
 
-!(ex1.png)
+![](ex1.png)
 
-!(ex2.png)
+![](ex2.png)
 
-!(ex3.png)
+![](ex3.png)
 
 
